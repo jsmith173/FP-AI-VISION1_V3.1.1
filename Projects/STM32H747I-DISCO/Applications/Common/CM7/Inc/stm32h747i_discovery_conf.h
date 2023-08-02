@@ -32,7 +32,7 @@
 #define USE_BSP_COM_FEATURE                 0U
 
 /* LCD controllers defines */
-#define USE_LCD_CTRL_OTM8009A               1U
+#define USE_LCD_CTRL_NT35510                1U
 #define USE_LCD_CTRL_ADV7533                0U
 
 #define LCD_LAYER_0_ADDRESS                 0xD0000000U
